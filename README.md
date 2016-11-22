@@ -9,6 +9,9 @@ Its main features:
 * Signal-friendly, it's easy to check which option is being selected.
 * Options to change the cursor side and menu orientation.
 
+[](menu_example.png)
+*Menu example, used with [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader)*
+
 ## How to use
 Simply download this repository, and copy the GodotSTM folder to your Godot project; then enable the plugin on the 'Plugins' tab (on 'Project Settings').
 
@@ -17,4 +20,6 @@ To add options to your menu, edit the "options" variable of the node; each line 
 This repository has a demo Scene you can check to see how the plugin works.
 
 ## License
-MIT.
+The "Cave-Story" font used in the demo was created by enigmansmp1824; it's CC-BY-SA licensed, and can be found in https://fontlibrary.org/pt/font/cave-story.
+
+The plugin uses the MIT License.
