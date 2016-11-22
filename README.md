@@ -9,7 +9,7 @@ Its main features:
 * Signal-friendly, it's easy to check which option is being selected.
 * Options to change the cursor side and menu orientation.
 
-[](menu_example.png)
+![](menu_example.png)
 *Menu example, used with [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader)*
 
 ## How to use
